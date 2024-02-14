@@ -155,7 +155,7 @@ hr {
         background-color: var(--clr-neutral-eggshell);
         display: grid;
         place-content: center;
-        padding: 15vh 10vw;
+        padding: 15vh 29.5vw;
     }
 
     .main-container {
