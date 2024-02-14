@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "Outfit";
+    src: url(./assets/fonts/outfit/Outfit-VariableFont_wght.ttf);
+    font-weight: 400 700;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Young Serif";
+    src: url(./assets/fonts/young-serif/YoungSerif-Regular.ttf);
+    font-weight: 400;
+    font-display: swap;
+}
+
+:root {
+    --clr-primary-nutmeg: hsl(14, 45%, 36%);
+    --clr-primary-dark-raspberry: hsl(332, 51%, 32%);
+
+    --clr-neutral-white: hsl(0, 0%, 100%);
+    --clr-neutral-rose-white: hsl(330, 100%, 98%);
+    --clr-neutral-eggshell: hsl(30, 54%, 90%);
+    --clr-neutral-light-grey: hsl(30, 18%, 87%);
+    --clr-neutral-wenge-brown: hsl(30, 10%, 34%);
+    --clr-neutral-dark-charcoal: hsl(24, 5%, 18%);
+
+    --font-family-primary: "Outfit", sans-serif;
+    --font-family-secondary: "Young Serif", sans-serif;
+
+    --fw-regular: 400;
+    --fw-bold: 700;
+
+    --fs-400: 1.125rem;
+    --fs-500: 1.25rem;
+    --fs-600: 1.5rem;
+    --fs-700: 2rem;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    font: inherit;
+}
+
+img,
+svg {
+    display: block;
+    max-width: 100%;
+}
