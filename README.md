@@ -22,10 +22,10 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ![Desktop Screenshot](./screenshots/desktop-1440.png)
 
-### Links (Will be updated)
+### Links
 
-- Solution URL: [Solution URL]()
-- Live Site URL: [Live site URL]()
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-recipe-page-using-flexbox-and-grid-lRiownKJPR)
+- Live Site URL: [Live site URL](https://praveenkum11.github.io/recipe-page-frontendmentor/)
 
 ## My process
 
